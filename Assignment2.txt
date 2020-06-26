@@ -114,3 +114,31 @@ Ans: Below are the some main uses of python:
     8. Software Development
       Python is often used as a support language for software developers,
       for build control and management, testing, and in many other ways.
+
+
+  Q4: who are using Python?
+  Ans : Python is used by Wikipedia, Google (where Van Rossum used to work),
+        Yahoo!, CERN and NASA, among many other organizations.
+
+  Q5: One company used case of Python.
+  Ans:Facebook
+      Facebook production engineers are exceptionally keen on Python, making it
+      the third most popular language at the social media giant (just behind
+      C++ and their proprietary PHP dialect, Hack). On average, there are over
+      5,000 commits to utilities and services at Facebook, managing
+      infrastructure, binary distribution, hardware imaging, and operational
+      automation.
+      The ease of using Python libraries means that the production engineers
+      don’t have to write or maintain as much code, allowing them to focus on
+      getting improvements live. It also ensures that the infrastructure of
+      Facebook is able to scale efficiently.
+      According to a 2016 post by Facebook, Python is currently responsible for
+      multiple services in infrastructure management. These include using
+      TORconfig to handle network switch setup and imaging, FBOSS for whitebox
+      switch CLIs, and using Dapper for scheduling and execution of maintenance
+      work.
+      Facebook has published numerous open-source Python projects written for
+      Py3 including a Facebook Ads API and a Python Async IRCbot framework.
+      Facebook is currently in the process of upgrading their infrastructure
+      and handlers to 3.4 from 2, and AsyncIO is helping their engineers in the
+      process.
