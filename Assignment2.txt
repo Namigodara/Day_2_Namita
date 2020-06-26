@@ -1,6 +1,69 @@
 Q1. What is Python?
 Ans: Python is an interpreted, object-oriented, high-level programming language
-    with dynamic semantics. Its high-level built in data structures, combined 
+    with dynamic semantics. Its high-level built in data structures, combined
     with dynamic typing and dynamic binding, make it very attractive for Rapid
     Application Development, as well as for use as a scripting or glue language
     to connect existing components together.
+
+Q2: What are the features of the Python?
+Ans:
+There are many features in Python, some of which are discussed below –
+
+1. Easy to code:
+Python is a high-level programming language. Python is very easy to learn the
+language as compared to other languages like C, C#, Javascript, Java, etc.
+It is very easy to code in python language and anybody can learn python basics
+in a few hours or days. It is also a developer-friendly language.
+
+2.Open Source and Free
+Python is an open-source programming language which means that anyone can
+create and contribute to its development. Python has an online forum where
+thousands of coders gather daily to improve this language further.
+Along with this Python is free to download and use in any operating system,
+be it Windows, Mac or Linux.
+
+3. Object-Oriented Language:
+One of the key features of python is Object-Oriented programming.
+Python supports object-oriented language and concepts of classes, objects
+encapsulation, etc.
+
+4.Support for GUI
+GUI or Graphical User Interface is one of the key aspects of any programming
+language because it has the ability to add flair to code and make the results
+more visual. Python has support for a wide array of GUIs which can easily be
+imported to the interpreter, thus making this one of the most favorite
+languages for developers.
+
+5. High-Level Language:
+Python is a high-level language. When we write programs in python, we do not
+need to remember the system architecture, nor do we need to manage the memory.
+
+6. Extensible feature:
+Python is a Extensible language. We can write us some Python code into C or C++
+language and also we can compile that code in C/C++ language.
+
+7.Python is Portable language:
+Python language is also a portable language. For example, if we have python
+code for windows and if we want to run this code on other platforms such as
+Linux, Unix, and Mac then we do not need to change it, we can run this code on
+any platform.
+
+8. Python is Integrated language:
+Python is also an Integrated language because we can easily integrated python
+with other languages like c, c++, etc.
+
+9. Interpreted Language:
+Python is an Interpreted Language because Python code is executed line by line
+at a time. like other languages C, C++, Java, etc. there is no need to compile
+python code this makes it easier to debug our code.
+
+10. Large Standard Library
+Python has a large standard library which provides a rich set of module and
+functions so you do not have to write your own code for every single thing.
+There are many libraries present in python for such as regular expressions,
+unit-testing, web browsers, etc.
+
+11. Dynamically Typed Language:
+Python is a dynamically-typed language. That means the type (for example- int,
+double, long, etc.) for a variable is decided at run time not in advance
+because of this feature we don’t need to specify the type of variable.
